@@ -13,7 +13,8 @@
       <pubDate>Sat, 02 Sep 2023 22:05:28 -0500</pubDate>
       
       <guid>https://trivorak.github.io/post/mypost/</guid>
-      <description>Test content does this work</description>
+      <description>Test content does this work
+vari = &amp;#34;whatever&amp;#34; print(vari) </description>
     </item>
     
   </channel>
