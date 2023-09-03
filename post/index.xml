@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Sep 2023 22:05:28 -0500</lastBuildDate><atom:link href="https://trivorak.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
+      <title>Family Fever of Four</title>
       <link>https://trivorak.github.io/post/mypost/</link>
       <pubDate>Sat, 02 Sep 2023 22:05:28 -0500</pubDate>
       
       <guid>https://trivorak.github.io/post/mypost/</guid>
-      <description>Test content does this work
-vari = &amp;#34;whatever&amp;#34; print(vari) </description>
+      <description>Another Blog? After being inspired by a linux enthusist, I wanted to put together a simple blog to desicribe some projects I&amp;rsquo;ve worked on&amp;hellip; or whatever is on my mind at the time.
+Building it for? I will try to post things that are a bit evergreen.
+-Enjoy</description>
     </item>
     
   </channel>
