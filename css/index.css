@@ -131,8 +131,9 @@ body > header, body > footer {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  background: #2d2e36;
-  color: #ffffff;
+  font-weight: bold;
+  background: #FD5E53;
+  color: #000013;
 }
 
 body > header, body > article, body > footer {
@@ -156,7 +157,7 @@ nav a {
   margin: 0.5em 1em;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   html, body, body > header, body > footer {
     background: #212228;
     color: #ffffff;

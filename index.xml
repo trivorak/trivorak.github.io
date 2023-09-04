@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trivorak blog</title>
+    <title>trivorak</title>
     <link>https://trivorak.github.io/</link>
-    <description>Recent content on trivorak blog</description>
+    <description>Recent content on trivorak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Sep 2023 22:05:28 -0500</lastBuildDate><atom:link href="https://trivorak.github.io/index.xml" rel="self" type="application/rss+xml" />
